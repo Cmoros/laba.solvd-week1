@@ -33,7 +33,7 @@ npm install npm@latest -g
 
 1. Clone the repo
    ```sh
-   git clone
+   git clone https://github.com/Cmoros/laba.solvd-week1.git
    ```
 2. Go to the project folder
 
